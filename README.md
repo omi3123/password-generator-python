@@ -1,19 +1,37 @@
-# Password Generator - Python
+# 🔐 **Password Generator – Python**
 
-A simple Python script that generates **random numeric passwords** of a specified length. This project demonstrates basic use of functions, loops, and Python's built-in `random` module.
+A simple Python script that generates **random numeric passwords** of a specified length.  
+This project is perfect for **beginners** learning about functions, loops, and the `random` module in Python.
 
-## 🔐 Features
+---
 
-- Generates random numeric passwords (digits only)
-- Customizable password length
-- Lightweight and beginner-friendly
+## 🔧 Features
+
+- 🔢 Generates Random Numeric Passwords (Digits Only)  
+- 📏 Customizable Password Length  
+- 🪶 Lightweight and Beginner-Friendly  
+- 💡 Easy to Modify for Alphabetic or Alphanumeric Options
+
+---
 
 ## 🧱 Tech Stack
 
-- Language: Python
-- Modules: `random`
+- **Language:** Python  
+- **Modules Used:** `random` (built-in)
 
-## 🚀 How to Run
+---
 
-1. Make sure Python is installed.
-2. Clone this repository or copy th
+## ▶️ How to Run
+
+### 💻 Using Terminal / CMD:
+```bash
+python password_generator.py
+✅ Make sure Python is installed and added to your system PATH.
+
+👨‍💻 Author
+Muhammad Umair Bashir
+📧 umairbashir0319@gmail.com
+
+🪪 License
+This project is open-source and free to use for learning, practice, and personal use.
+You may extend or share it with proper credit.
